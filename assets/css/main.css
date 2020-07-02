@@ -3467,7 +3467,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #f64242;
+		background: #81e6df;
 		box-shadow: none;
 		color: #ffffff;
 		height: 100%;
@@ -3498,7 +3498,7 @@
 					#menu > ul.links > li > a:not(.button) {
 						border: 0;
 						border-top: solid 1px rgba(255, 255, 255, 0.25);
-						color: inherit;
+						color: 3B0B0B;
 						display: block;
 						line-height: 3.5em;
 						text-decoration: none;
@@ -3550,7 +3550,7 @@
 			}
 
 			#menu .close:hover {
-				color: #ffffff;
+				color: #3B0B0B;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -4179,10 +4179,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #F64747;
-		color: #fdd1d1;
+		background-color: #f0eba5;
+		color: #3B0B0B;
 		padding: 6em 0 4em 0;
-		background: #F64747;
+		background:#81e6df;
 	}
 
 		#footer input, #footer select, #footer textarea {
