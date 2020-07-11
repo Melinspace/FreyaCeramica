@@ -3338,7 +3338,7 @@
 
 		#header.alt {
 			top: 0;
-			background: #F64747;
+			background: black;
 		}
 
 		#header .logo {
@@ -4182,7 +4182,7 @@
 		background-color: #f0eba5;
 		color: #3B0B0B;
 		padding: 6em 0 4em 0;
-		background:#81e6df;
+		background:#57462f;
 	}
 
 		#footer input, #footer select, #footer textarea {
