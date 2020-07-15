@@ -4181,7 +4181,7 @@
 
 	#footer {
 		background-color: #8c8d8f;
-		color: #3B0B0B;
+		color: ##fbb5b5;
 		padding: 6em 0 4em 0;
 		background:#8c8d8f;
 	}
@@ -4199,7 +4199,7 @@
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #ffffff;
+			color: ##fbb5b5;
 		}
 
 		#footer blockquote {
@@ -4387,6 +4387,7 @@
 
 		#footer .inner {
 			margin: 0 auto;
+			color: #fbb5b5;
 		}
 
 		#footer h2 {
